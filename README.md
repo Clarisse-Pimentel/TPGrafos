@@ -10,7 +10,18 @@ O trabalho foi dividido em quatro etapas:
 - Etapa 4: Relatório e entrevista.
 # Estrutura de diretórios
 ```
-TPGrafos/ ├── main.cpp ├── grafo.h ├── entrada.h ├── algoritmos.h ├── estatisticas.h ├── output/ │ └── main.exe └── selected_instances/ ├── BHW1.dat ├── BHW2.dat └── ...
+TPGrafos/
+├── main.cpp
+├── grafo.h
+├── entrada.h
+├── algoritmos.h
+├── estatisticas.h
+├── output/
+    │└── main.exe
+├── selected_instances/
+    │ └── BHW1.dat
+      └── BHW2.dat
+      └── ...
 ```
 # Iniciando o desenvolvimento 
 Para conseguir rodar o projeto na sua máquina, siga as orientações a seguir.
@@ -19,7 +30,7 @@ Para conseguir rodar o projeto na sua máquina, siga as orientações a seguir.
 *Clone o repositório*
 - Clone o repositório utilizando o seguinte comando:
 ```bash
-git clone https://github.com/Clarisse-Pimentel/Trabalho-Pr-tico-Grafos
+git clone https://github.com/Clarisse-Pimentel/Trabalho-Pr-tico-Grafos.git
 ```
 *Como compilar*
 ```bash
