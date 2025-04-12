@@ -8,6 +8,8 @@ O trabalho foi dividido em quatro etapas:
 - Etapa 2: Solução inicial.
 - Etapa 3: Métodos de melhoria.
 - Etapa 4: Relatório e entrevista.
+# Desenvolvido por
+Clarisse Lacerda Pimentel
 # Estrutura de diretórios
 ```
 TPGrafos/
