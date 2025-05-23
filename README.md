@@ -1,4 +1,4 @@
-# Trabalho Prático - Grafos
+# TPGrafos
 Este projeto implementa a leitura e análise de instâncias de grafos com serviços obrigatórios. Ele é baseado em um problema modelado sob um grafo multiconexo G = (V, E, A), em que:
 - **V** são os vértices (intersecções).
 - **E** são as arestas (vias de mão dupla).
@@ -8,9 +8,9 @@ O trabalho foi dividido em quatro etapas:
 - Etapa 2: Solução inicial.
 - Etapa 3: Métodos de melhoria.
 - Etapa 4: Relatório e entrevista.
-# Desenvolvido por
+# 👤 Desenvolvido por
 Clarisse Lacerda Pimentel
-# Estrutura de diretórios
+# 📁 Estrutura de diretórios
 ```
 TPGrafos/
 ├── main.cpp
@@ -25,7 +25,7 @@ TPGrafos/
       └── BHW2.dat
       └── ...
 ```
-# Iniciando o desenvolvimento 
+# ⚙️ Iniciando o desenvolvimento 
 Para conseguir rodar o projeto na sua máquina, siga as orientações a seguir.
 *Pré-Requisitos*
 - Compilador C++ (com suporte a C++17)
